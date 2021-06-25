@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste Java/Kotlin</string>
+    <string name="access_token">sk.eyJ1IjoiYW5kcm9pZHNoYWtpbCIsImEiOiJja2k0bDMzcjcwMGZ5MnBuMml5ZGtyeDd6In0.cxt1NubVuc6yVE5CdS6iUQ</string>
+    <string name="start_navigation">Iniciar a navegação</string>
+    <string name="user_location_permission_explanation">Este aplicativo precisa de permissões de localização para mostrar sua funcionalidade.</string>
+    <string name="user_location_permission_not_granted">Você não concedeu permissões de localização.</string>
+</resources>
