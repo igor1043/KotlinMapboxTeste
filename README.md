@@ -26,7 +26,7 @@ mínimo no android 8.0
 ## Aplicativos Gerados
 
 * Apk Android 10
-* Apk Android 8.1
+* Apk Android 8.0
 
 ## Autor
 
