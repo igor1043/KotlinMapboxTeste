@@ -12,7 +12,7 @@ Kotlin
 |  <img src="https://github.com/igor1043/Projetos-Android-Java-Kotlin/blob/main/screenshots/Teste%20JavaKotlin.jpg" width="250"> |
 
 
-[**Mapa - Mapbox**](https://github.com/igor1043/Projetos-Android-Java-Kotlin/tree/main/KotlinMapboxTeste
+[**Video no YouTube**](https://www.youtube.com/watch?v=dUuhg6-13WA&ab_channel=IgorVinicius)
 
 ## Instalação / Execução
 
