@@ -1,4 +1,4 @@
-# KotlinMapboxTeste
+# Mapbox mapas em Kotlin
 
 Aplicativo de localização de rotas criado no Android Studio
 
